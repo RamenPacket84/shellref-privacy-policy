@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head><title>Privacy Policy</title></head>
+<body style="font-family: sans-serif; padding: 40px; line-height: 1.6; max-width: 680px; margin: 0 auto;">
+
+    <h1>Privacy Policy for ShellRef</h1>
+    <p><em>Last updated: February 27, 2026</em></p>
+
+    <h2>Overview</h2>
+    <p>ShellRef ("the app") is a shell scripting reference tool for iOS and iPadOS. This privacy policy explains what data the app handles and how.</p>
+
+    <h2>Data We Collect</h2>
+    <p>ShellRef does not collect, transmit, or share any personal data. The app has no user accounts, no analytics, no advertising, and makes no network requests of any kind.</p>
+
+    <h2>Data Stored on Your Device</h2>
+    <p>The app stores the following information locally on your device only:</p>
+    <ul>
+        <li>Your bookmarked topics ("My Quick Refs")</li>
+        <li>Your selected theme and font size preference</li>
+    </ul>
+    <p>This data never leaves your device. It is stored using iOS standard local storage (UserDefaults) and is not accessible to us or any third party.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>ShellRef uses no third-party SDKs, analytics tools, advertising networks, or external services of any kind.</p>
+    <p>ShellRef does not collect data from anyone.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>If this policy changes in a future app update, the updated policy will be posted at this URL with a revised date.</p>
+
+</body>
+</html>
